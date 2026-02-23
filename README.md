@@ -24,8 +24,16 @@ Here I tried to tackle the 2nd issue from CCExtractor's take home qualification 
 - I must make my program run from cron daemon once an hour.
 - Handle authentication and search feature.
 
+
+
+
 ## Tech Stack
 
 - C
 - libcurl
 - httpbin.org for mock API and testing
+
+<img width="967" height="692" alt="image" src="https://github.com/user-attachments/assets/9ce08abf-8511-436b-a165-3c92bd64053a" />
+<img width="767" height="538" alt="image" src="https://github.com/user-attachments/assets/fbff311c-37f8-4eb7-b361-da7a50c00291" />
+
+
